@@ -15,7 +15,7 @@
 [//]: # (参考地址：https://readme-typing-svg.herokuapp.com/demo/)
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com?size=18&width=500&lines=%40142vip%2C+Rong%E5%A7%90%E5%A7%90%E5%A5%BD%E5%8F%AF%E7%88%B1;If+you+have+a+dream%2C+you+have+to+defend+it!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=18&width=500&lines=%40142vip%2C+公众号：Rong%E5%A7%90%E5%A7%90%E5%A5%BD%E5%8F%AF%E7%88%B1;If+you+have+a+dream%2C+you+have+to+defend+it!">
   </a>
 </h1>
 
