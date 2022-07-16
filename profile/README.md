@@ -1,24 +1,12 @@
 
 
 
+[//]: # (参考地址：https://readme-typing-svg.herokuapp.com/demo/)
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Rong姐姐好可爱!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com?size=18&width=500&lines=%40142vip%2C+Rong%E5%A7%90%E5%A7%90%E5%A5%BD%E5%8F%AF%E7%88%B1~;If+you+have+a+dream%2C+you+have+to+defend+it!">
   </a>
 </h1>
-
-<!-- 敲代码的图片 -->
-<div align="center" >
-<img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/>
-</div>
-<br>
-
-
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
-
-
-
 
 
 #### 💪 文档 | 笔记
@@ -41,7 +29,7 @@
 
 
 
-#### 🚀 我是谁，我在哪里，我想要做什么
+#### 🚀 我是谁，我在哪里，我想要做什么！
 
 
 [//]: # (<div align="center">)
@@ -68,12 +56,14 @@
 
 
 
-
-
-
 <!-- GitHub Activity Graph -->
-<div align="center">
+<table align="center">
+  <tr>
+    <td colspan="2">
       <img src="https://activity-graph.herokuapp.com/graph?username=mmdapl&theme=xcode&bg_color=FF000000&hide_border=true" />
-</div>
+    </td>
+  </tr>
+</table>
+
 
 
