@@ -1,31 +1,44 @@
+<!--
+ * @Description:  142vip组织仓库介绍
+ * @Version: Beta1.0
+ * @Author: 【B站&公众号】Rong姐姐好可爱
+ * @Date: 2022-07-16 16:52:43
+ * @LastEditors: 【B站&公众号】Rong姐姐好可爱
+ * @LastEditTime: 2022-07-16 16:58:12
+-->
+
+
+
 
 
 
 [//]: # (参考地址：https://readme-typing-svg.herokuapp.com/demo/)
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com?size=18&width=500&lines=%40142vip%2C+Rong%E5%A7%90%E5%A7%90%E5%A5%BD%E5%8F%AF%E7%88%B1~;If+you+have+a+dream%2C+you+have+to+defend+it!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=18&width=500&lines=%40142vip%2C+Rong%E5%A7%90%E5%A7%90%E5%A5%BD%E5%8F%AF%E7%88%B1;If+you+have+a+dream%2C+you+have+to+defend+it!">
   </a>
 </h1>
 
 
 #### 💪 文档 | 笔记
 
-- 408CSFamily
-- JavaScriptCollection
+- [408CSFamily](https://github.com/mmdapl/408CSFamily)
+- [JavaScriptCollection](https://github.com/142vip/JavaScriptCollection)
 
 
 #### 🧠 开源 | 插件
 
-- egg-sequelize
-- egg-grpc-client
-- egg-grpc-server
+- [egg-sequelize](https://github.com/142vip/egg-sequelize)
+- [egg-grpc-client](https://github.com/142vip/egg-grpc-client)
+- [egg-grpc-server](https://github.com/142vip/egg-grpc-server)
 
 #### 🧰 框架 | 模板
 
-- egg-demo
-- express-demo
-- vue-demo
+- [egg-demo](https://github.com/142vip/egg-demo)
+- [express-demo](https://github.com/142vip/express-demo)
+- [vue-demo](https://github.com/142vip/vue-demo)
+- [nest-demo](https://github.com/142vip/nest-demo)
+  
 
 
 
