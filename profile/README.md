@@ -72,16 +72,6 @@
                 title="欢迎添加微信：chufan443 " alt="联系作者"/>
             </th>
         </tr> 
-        <tr >
-            <td width="150" height="50"  align="center">
-                关注公众号
-            </td>
-            <td width="150" height="50" colspan="4">
-                联系作者
-            </td>
-        </tr>
-        <tr >
-        </tr>
     </table>
             <div  style="text-align: center;width: 100%;max-width: 300px;padding: 10px">
     <a
