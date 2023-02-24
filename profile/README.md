@@ -49,25 +49,23 @@
 
 
 <div style="text-align: center">
-    <div class="code-statistic-container" style="width: 400px;padding: 20px">
+    <div class="code-statistic-container" style="width: 400px;padding: 20px;" align="center">
         <img  src="https://github-profile-trophy.vercel.app/?username=mmdapl&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
     </div>
-    <div class="data-statistic-container">
+    <div class="data-statistic-container" align="center">
       <img height="160px" width="40%" src="https://github-readme-stats.vercel.app/api?username=mmdapl&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-      <img height="160px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdapl&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+      <img height="160px" width="40%" style="padding: 7px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdapl&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
     </div>
-    <div style="text-align: center" align="center" >
+    <div  align="center" >
     <table style="border: 0px;">
         <tr>
-            <th  align="center">
+            <th>
             <img src="https://cdn.staticaly.com/gh/142vip/cdn_service@main/media/fairy-sister-450x450.jpg" 
                 width="140px"
-                style="padding: 5px"            
                 title="欢迎关注公众号:Rong姐姐好可爱" alt="关注公众号"/>
             </th>
-            <th width="150" height="40">
+            <th>
             <img src="https://cdn.staticaly.com/gh/142vip/cdn_service@main/media/chu-fan-443-650x650.jpg"
-                style="padding: 5px"
                 width="140px"
                 title="欢迎添加微信：chufan443 " alt="联系作者"/>
             </th>
@@ -79,7 +77,7 @@
       rel="nofollow noreferrer"
       target="_blank"
       title="点击跳转Github主页"
-      style="padding: 3px"
+      style="padding: 5px"
     >
       <img src="https://cdn.staticaly.com/gh/142vip/cdn_service@main/main-vip/svg/github.svg"
         style="padding: 2px;width: 24px;height: 24px;">
@@ -89,7 +87,7 @@
       rel="nofollow noreferrer"
       target="_blank"
       title="点击跳转码云主页"
-      style="padding: 3px"
+      style="padding: 5px"
     >
       <img src="https://cdn.staticaly.com/gh/142vip/cdn_service@main/main-vip/svg/gitee.svg"
         style="padding: 2px;width: 24px;height: 24px;">
@@ -99,7 +97,7 @@
       rel="nofollow noreferrer"
       target="_blank"
       title="点击跳转掘金主页"
-      style="padding: 3px"
+      style="padding: 5px"
     >
       <img src="https://cdn.staticaly.com/gh/142vip/cdn_service@main/main-vip/svg/juejin.svg"
         style="padding: 2px;width: 24px;height: 24px;">
@@ -109,7 +107,7 @@
       rel="nofollow noreferrer"
       target="_blank"
       title="点击跳转B站主页"
-      style="padding: 3px"
+      style="padding: 5px"
     >
       <img src="https://cdn.staticaly.com/gh/142vip/cdn_service@main/main-vip/svg/bilibili.svg"
         style="padding: 2px;width: 24px;height: 24px;">
@@ -119,9 +117,10 @@
       rel="nofollow noreferrer"
       target="_blank"
       title="点击跳转CSDN博客主页"
-      style="padding: 3px"
+      style="padding: 5px"
     >
       <img src="https://cdn.staticaly.com/gh/142vip/cdn_service@main/main-vip/svg/csdn.svg"
+        title="点击跳转CSDN博客主页"
         style="padding: 2px;width: 24px;height: 24px;">
     </a>
   </div>
