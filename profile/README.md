@@ -129,7 +129,7 @@
 
 </div>
 
-<style >
+<style type="text/css" rel="stylesheet">
 .vip-introduce-container{
     width: 400px;
     padding: 20px;
