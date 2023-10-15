@@ -12,15 +12,15 @@
 
 <h1 align="center">
   <a href="https://142vip.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com?size=18&width=500&lines=%40142vip%2C+公众号：储凡;If+you+have+a+dream%2C+you+have+to+defend+it!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=18&width=500&lines=%40142vip%2C+微信公众号：储凡;If+you+have+a+dream%2C+you+have+to+defend+it!">
   </a>
 </h1>
 
 
 #### 💪 文档 | 笔记
 
-- [ ] [408CSFamily](https://github.com/142vip/408CSFamily)
-- [ ] [JavaScriptCollection](https://github.com/142vip/JavaScriptCollection)
+- [x] [408CSFamily](https://github.com/142vip/408CSFamily)
+- [x] [JavaScriptCollection](https://github.com/142vip/JavaScriptCollection)
 
 
 #### 🧠 开源 | 插件
