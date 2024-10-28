@@ -1,13 +1,3 @@
-<!--
- * @Description:  142vip组织仓库介绍
- * @Version: Beta1.0
- * @Author: 【公众号】储凡
- * @Date: 2022-07-16 16:52:43
- * @LastEditors: 【公众号】储凡
- * @LastEditTime: 2022-07-16 16:58:12
--->
-
-
 <!--参考地址：https://readme-typing-svg.herokuapp.com/demo/-->
 
 <h1 align="center">
@@ -17,31 +7,59 @@
 </h1>
 
 
-#### 💪 文档 | 笔记
+## 💪 文档 | 笔记 | 开源
 
+- [x] [@142vip/core-x](https://github.com/142vip/core-x)
 - [x] [408CSFamily](https://github.com/142vip/408CSFamily)
 - [x] [JavaScriptCollection](https://github.com/142vip/JavaScriptCollection)
 
 
-#### 🧠 开源 | 插件
+## 🧠 NPM模块
 
-- [x] [egg-sequelize](https://github.com/142vip/egg-sequelize)
-- [x] [egg-grpc-client](https://github.com/142vip/egg-grpc-client)
-- [x] [egg-grpc-server](https://github.com/142vip/egg-grpc-server)
+- [ ] [`@142vip/axios`](https://www.npmjs.com/package/@142vip/axios)
+- [x] [`@142vip/changelog`](https://www.npmjs.com/package/@142vip/changelog)
+- [ ] [`@142vip/egg`](https://www.npmjs.com/package/@142vip/egg)
+- [ ] [`@142vip/egg-axios`](https://www.npmjs.com/package/@142vip/egg-axios)
+- [x] [`@142vip/egg-grpc-client`](https://www.npmjs.com/package/@142vip/egg-grpc-client)
+- [x] [`@142vip/egg-grpc-server`](https://www.npmjs.com/package/@142vip/egg-grpc-server)
+- [ ] [`@142vip/egg-mysql`](https://www.npmjs.com/package/@142vip/egg-mysql)
+- [ ] [`@142vip/egg-redis`](https://www.npmjs.com/package/@142vip/egg-redis)
+- [ ] [`@142vip/egg-sequelize`](https://www.npmjs.com/package/@142vip/egg-sequelize)
+- [ ] [`@142vip/egg-swagger`](https://www.npmjs.com/package/@142vip/egg-swagger)
+- [x] [`@142vip/eslint-config`](https://www.npmjs.com/package/@142vip/eslint-config)
+- [x] [`@142vip/fairy-cli`](https://www.npmjs.com/package/@142vip/fairy-cli)
+- [ ] [`@142vip/nest`](https://www.npmjs.com/package/@142vip/nest)
+- [ ] [`@142vip/nest-redis`](https://www.npmjs.com/package/@142vip/nest-redis)
+- [ ] [`@142vip/nest-typeorm`](https://www.npmjs.com/package/@142vip/axios)
+- [ ] [`@142vip/oauth`](https://www.npmjs.com/package/@142vip/oauth)
+- [ ] [`@142vip/redis`](https://www.npmjs.com/package/@142vip/redis)
+- [x] [`@142vip/release-version`](https://www.npmjs.com/package/@142vip/release-version)
+- [ ] [`@142vip/typeorm`](https://www.npmjs.com/package/@142vip/typeorm)
+- [x] [`@142vip/utils`](https://www.npmjs.com/package/@142vip/utils)
+- [x] [`@141vip/vitepress`](https://www.npmjs.com/package/@142vip/vitepress)
+- [x] [`@142vip/vuepress`](https://www.npmjs.com/package/@142vip/vuepress)
 
-#### 🧰 框架 | 模板
+## 🧰 演示Demo
 
-- [x] [egg-demo](https://github.com/142vip/egg-demo)
-- [x] [express-demo](https://github.com/142vip/express-demo)
+- [ ] [egg-demo](https://github.com/142vip/core-x/tree/main/apps/egg-demo)
+- [ ] [express-demo](https://github.com/142vip/core-x/tree/main/apps/express-demo)
 - [x] [vue-demo](https://github.com/142vip/vue-demo)
 - [ ] [nest-demo](https://github.com/142vip/nest-demo)
+- [x] [vitepress-demo](https://github.com/142vip/core-x/tree/main/apps/vitepress-demo)
+- [x] [vuepress-demo](https://github.com/142vip/core-x/tree/main/apps/vuepress-demo)
 
 
-#### 🧰 最佳实践
+
+## 开源趋势
+
+
+<picture>
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=142vip/core-x,142vip/408CSFamily,142vip/JavaScriptCollection&type=Date" />
+</picture>
 
 
 
-#### 🚀 我是谁，我在哪里，我想要做什么！
+## 🚀 我是谁，我在哪里，我想要做什么！
 
 
 
